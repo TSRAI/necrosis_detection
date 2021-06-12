@@ -1,11 +1,11 @@
-# necrosis_detection
-Necrosis detection 
+##Necrosis detection 
 
 
-
+1. Patch extraction: 
+2. Training single magnification models
 The following directory structure should be specified for the extracted patches:
 
-
+WSI
 
 
 
